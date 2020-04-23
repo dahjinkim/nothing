@@ -1,0 +1,40 @@
+---
+title: "Actitivy"
+author: "Jin Kim"
+date: '2020 4 22 '
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***I know how to make a website!***
+
+# **Useful Things from PDS**
+
+As a person who is new to programming, PDS has helped me learn some basic and advanced R skills and gain confidence in working with data. 
+
+Below, I summarize things I found useful.
+
+1. Basic R Operations
+    - Learn R syntex
+
+2. Data Cleaning and Visualization
+    - ggplot, tidyverse, and dplyr
+    - ***super useful*** when working with raw data
+
+3. Basic Statistics
+    - Supervised learning
+    - Running simple regressions
+    
+A lot of material can be found in the following link:
+
+[Political Data Science](politicaldatascience.com)
+
+![](http://politicaldatascience.com/PDS/Slides/Images/image2.png)
+
+
+```{r, echo=T, eval=T}
+fivethirtyeight::trump_twitter$text[7:10]
+```
