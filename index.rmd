@@ -9,9 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-***I know how to make a website!***
+***Welcome to my website***
 
-# **Useful Things from PDS**
+# Jin Kim (comparative politics, methods)
 
 As a person who is new to programming, PDS has helped me learn some basic and advanced R skills and gain confidence in working with data. 
 
