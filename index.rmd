@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Research interests
 
-Hi everyone. I'm a graduate student at Washington University in St. Louis. My research interests of fields are in fields of comparative politics and methods. My substantive interests are in the area of political communication.
+I'm a graduate student at Washington University in St. Louis. My research interests of fields are in fields of comparative politics and methods. My substantive interests are in the area of political communication.
